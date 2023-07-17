@@ -1,0 +1,20 @@
+Task 1:
+CEO:
+
+1 Which are the top 5 profitable products
+
+2 Best Selling products irrespective of profit
+
+3 Which Country brings in most profit so as to expand the business
+
+4 Which products needs to be discarded
+
+CMO
+
+1 Revenue of current year compared to last year
+
+2 What are the top three marketing channels that are driving our traffic?
+
+3 Most active customers (customer segment to be targeted)
+
+4 What are our brand awareness and consideration metrics?
