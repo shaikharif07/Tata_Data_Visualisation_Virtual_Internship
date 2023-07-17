@@ -10,7 +10,7 @@ The project utilized an online retail sales dataset frovide by Tata on Forage, w
 Project Tasks:
 1) Framing Business Scenarios: Identified relevant business scenarios and formulated clear objectives for the analysis and visualization process. Considered key questions and requirements to guide the project.
 
-2) Selecting Appropriate Visuals: Utilized Power BI and Excel to create a variety of data visualizations, including charts, graphs, and interactive dashboards. Chose visualizations that best conveyed the desired insights and facilitated clear communication.
+2) Selecting Appropriate Visuals: Utilized Power BI and Excel to create a variety of data visualizations, including charts, graphs, and interactive dashboards. Chose visualizations that best conveyed the desired insights and facilitated clear communication. Task 2 was a quiz conductuded on the platform and therefore no files pertaning to it is added here.
 
 3) Creating Effective Visualizations: Leveraged Power BI's interactive features and Excel's data cleaning capabilities to create visually compelling and informative graphics. Paid attention to design principles and ensured the visualizations were easy to interpret and aesthetically pleasing.
 
